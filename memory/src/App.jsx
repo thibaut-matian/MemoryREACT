@@ -16,7 +16,11 @@ function App() {
     "/img/kuma.png",
     "/img/Newgate.png",
     "/img/Marshall_D._Teach_Anime_Post_Ellipse_Infobox.png",
-    "/img/Kaidou_Anime_Infobox.png"
+    "/img/Kaidou_Anime_Infobox.png",
+    "/img/Rocks.png",
+    "/img/kizaru.png"
+
+
   ];
 
   // 2. Fonction pour créer le plateau de jeu (Mélangé !)
